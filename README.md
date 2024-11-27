@@ -15,9 +15,10 @@ To run tests use the `npm test` command.
 
 ## To-do list
 
-1. Create a branch from master named with your first & last name (e.g. ivan-ivanov)
+1. Create a branch from master named with your first & last name (e.g. `git checkout -b ivan-ivanov master`)
 1. In `src/calculator.ts` implement `calc`, `getCurrentValue` and any other methods you need in order to make the tests pass.
-1. Commit the solution once you're done or the time is over.
+1. Make sure you to commit & push after every completed task (e.g. `git commit -m "task1 completed"` & `git push -u origin ivan-ivanov`)
+1. After you're done with the task or the time is up, do one final commit.
 
 ## Evaluation
 
