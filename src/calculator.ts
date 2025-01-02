@@ -36,7 +36,6 @@ class Calculator {
       this.currentValue = value as number;
     }
 
- 
     if (this.currentValue !== previousValue) {
       this.listeners.forEach(listener => listener(this.currentValue));
     }
