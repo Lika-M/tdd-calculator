@@ -1,0 +1,5 @@
+Evaluation Criteria	Initial Code	Improved Code	Further Improvement
+Green Test Suites	✅               	✅	                    ✅
+Green Tests     	✅	                ✅	                    ✅
+Code Redundancy	    ❌ Repetitive logic	✅ Reduced with switch	✅ Fully eliminated with map
+Maintainability	    ❌ Hard to extend	✅ Easier with switch	✅ Very easy with enum/map
